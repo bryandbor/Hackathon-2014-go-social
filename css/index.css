@@ -1,0 +1,118 @@
+body {
+	color: white !important;
+}
+
+.no-margin {
+	margin: 0px !important;
+}
+
+.no-margin-top {
+	margin-top: 0px !important;
+}
+
+.no-margin-left {
+	margin-left: 0px !important;
+}
+
+.no-margin-right {
+	margin-right: 0px !important;
+}
+
+.no-margin-bottom {
+	margin-bottom: 0px !important;
+}
+
+.no-padding {
+	padding: 0px !important;
+}
+
+.no-padding-top {
+	padding-top: 0px !important;
+}
+
+.no-padding-left {
+	padding-left: 0px !important;
+}
+
+.no-padding-right {
+	padding-right: 0px !important;
+}
+
+.no-padding-bottom {
+	padding-bottom: 0px !important;
+}
+
+#background-color {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: -10;
+}
+
+#content-container {
+
+}
+
+#me-tab {
+	position: fixed;
+	width: 70px;
+	height: 15%;
+	left: -30px;
+	top: 10%;
+	background: #FFFFFF;
+	border-radius: 5px;
+}
+
+#me-tab-open-button {
+	position: absolute;
+	top: 5%;
+	right: 5px;
+	height: 90%;
+	max-height: 100px;
+}
+
+#me-tab-contents {
+	display: none;
+	width: 90%;
+	margin-left: 1%;
+	color: #000000;
+	z-index: 1;
+	opacity: 1;
+}
+
+#trip-tab {
+	position: fixed;
+	width: 70px;
+	height: 15%;
+	left: -30px;
+	top: 27%;
+	background: #FFFFFF;
+	border-radius: 5px;
+}
+
+#trip-tab-open-button {
+	position: absolute;
+	top: 5%;
+	right: 5px;
+	height: 90%;
+	max-height: 100px;
+}
+
+#trip-tab-contents {
+	display: none;
+	width: 90%;
+	margin-left: 1%;
+	color: #FFFFFF;
+	z-index: 1;
+	opacity: 1;
+	color: #000000;
+}
+
+#trip-tab-new-trip-button {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
