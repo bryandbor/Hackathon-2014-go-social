@@ -404,7 +404,7 @@
     		</div>
     	</div>
     	<div class="container">
-    		<h2 class="text-center white-text">Go Social!</h2>
+    		<h1 class="text-center"><span class="white-text">Go Social!</span></h1>
     		<div class="col-sm-8">
     			<div class="panel panel-default">
     				<div class="panel-heading">

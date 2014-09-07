@@ -11,6 +11,11 @@ textarea {
 
 .white-text {
 	color: white;
+	padding-left: 15px;
+	padding-right: 15px;
+	border: 4px solid white;
+	border-radius: 5px;
+	background: black;
 }
 
 .no-margin {
